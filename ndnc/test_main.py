@@ -1,4 +1,4 @@
-from main import httpCall
+from ndnc.main import httpCall
 
 
 def test_httpCall():
