@@ -1,4 +1,4 @@
-![Build Status](https://travis-ci.org/code-haven/python-ndnc.svg?branch=master)](https://travis-ci.org/code-haven/python-ndnc)
+[![Build Status](https://travis-ci.org/code-haven/python-ndnc.svg?branch=master)](https://travis-ci.org/code-haven/python-ndnc)
 
 python-ndnc
 ---
